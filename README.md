@@ -1,6 +1,6 @@
 ## Actuarial Interview Question
 
-Your task is to compute the probability of dying at any point in a month, for every month of a person's life from ages 60 through 100.
+Your task is to compute the probabilities of dying within any single month, for each month of a British male from ages 60 through 100.
 
 You may use the `qx` time series for British males for the years 2018-2020 in the spreadsheet `qxtimeseries.xlsx`.
 
