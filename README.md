@@ -9,3 +9,5 @@ You must devise a proof for the correctness of your model. Bonus points if it is
 You are free to choose your method to go about doing this, as long as any assumptions and/or decisions made are justified in a write-up.
 
 You can choose how you want to present your solution. It could be tabular, graphical, or a combination of the two.
+
+Please send your solution to modeller@tontiners.com
